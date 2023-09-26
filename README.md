@@ -4,4 +4,7 @@ This repository houses my dotfiles and configuration files for Linux development
 
 :construction: This repository is always under construction :construction:
 
+- [oh-my-zsh](oh-my-zsh)
+
+
 
