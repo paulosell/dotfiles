@@ -35,6 +35,6 @@ $ echo $SHELL
 | **wget**  | `sh -c "$(wget -O- https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`   |
 | **fetch** | `sh -c "$(fetch -o - https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"` |
 
-## Plugins
+## Plugins and themes
 
 I'm currently using only [git](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git) and [sudo](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/sudo) for plugins and [awsomepanda](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#awesomepanda) as theme. :smile:
