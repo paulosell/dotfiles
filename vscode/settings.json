@@ -1,0 +1,42 @@
+{
+    "workbench.colorTheme": "Dracula Refined",
+    // Configura tamanho e família da fonte
+    "editor.fontSize": 16,
+    "editor.lineHeight": 24,
+    "editor.fontFamily": "'Fira Code'",
+    "editor.fontLigatures": true,
+    // Aplica linhas verticais para lembrar de quebrar linha em códigos muito grandes
+    "editor.rulers": [
+        80,
+        120
+    ],
+    // Aplica um sinal visual na esquerda da linha selecionada
+    "editor.renderLineHighlight": "gutter",
+    // Aumenta a fonte do terminal
+    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.fontFamily": "'Fira Code'",
+    "files.autoSave": "onFocusChange",
+    "diffEditor.wordWrap": "on",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs": "active",
+    "editor.autoClosingBrackets": "never",
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "editor.autoClosingQuotes": "never",
+    "editor.autoSurround": "never",
+    "latex-workshop.latex.outDir": "%DIR%/out",
+    "editor.wordWrap": "wordWrapColumn",
+    "C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: LLVM, IndentWidth: 2, SpacesBeforeTrailingComments: 1, AllowShortIfStatementsOnASingleLine: true, ColumnLimit: 80}",
+    "files.insertFinalNewline": true,
+    "editor.foldingMaximumRegions": 65000,
+    "editor.formatOnSave": true,
+    "editor.formatOnSaveMode": "modifications",
+    "editor.formatOnType": true,
+    "C_Cpp.enhancedColorization": "Enabled",
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "git.terminalAuthentication": false,
+    "workbench.statusBar.visible": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "terminal.integrated.defaultProfile.linux": "zsh"
+}

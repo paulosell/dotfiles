@@ -6,5 +6,6 @@ This repository houses my dotfiles and configuration files for Linux development
 
 - [oh-my-zsh](oh-my-zsh)
 - [hyper](hyper)
+- [vscode](vscode)
 
 
